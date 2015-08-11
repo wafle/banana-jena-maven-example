@@ -11,17 +11,6 @@
             <groupId>org.w3</groupId>
             <artifactId>banana-jena_2.11</artifactId>
             <version>0.8.1</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.apache.jena</groupId>
-                    <artifactId>apache-jena-libs</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.jena</groupId>
-            <artifactId>jena-tdb</artifactId>
-            <version>1.1.1</version>
         </dependency>
     </dependencies>
 </project>
