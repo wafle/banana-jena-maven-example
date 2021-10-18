@@ -1,0 +1,10 @@
+name: CI build
+on: [push, pull_request]
+jobs:
+  build_project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v1
+      - name: Build
+        run: mvn package
