@@ -8,9 +8,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.w3</groupId>
-            <artifactId>banana-jena_2.11</artifactId>
-            <version>0.8.1</version>
+            <groupId>net.bblfish.rdf</groupId>
+            <artifactId>banana-rdf_2.13</artifactId>
+            <version>0.8.5</version>
         </dependency>
     </dependencies>
 </project>
