@@ -1,4 +1,4 @@
 # banana-jena-maven-example
 minimal banana-jena maven project example
 
-[![Build Status](https://api.travis-ci.org/wafle/banana-jena-maven-example.png)](https://travis-ci.org/wafle/banana-jena-maven-example)
+[![Build status](https://github.com/wafle/banana-jena-maven-example/workflows/CI%20build/badge.svg)](https://github.com/wafle/banana-jena-maven-example/actions)
